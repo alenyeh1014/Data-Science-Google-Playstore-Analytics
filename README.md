@@ -1,2 +1,3 @@
-# Data-Science-Google-Playstore-Analytics
-A project with Machine Learning and Deep Learning methodologies.
+# Market Analytics: Google Playstore Preference 
+Hi all, this is a Data Science Project ! - Market Analytics with Machine Learning methodologies.
+
