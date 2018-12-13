@@ -4,7 +4,7 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
 
 ### Project Objective
 
-* The purpose of this project is to apply Machine Learning Methodology for Market Analytics in order to uncover the user preferences of Google PlayStore.
+* The purpose of this project is to make Exploratory Data Analysis (EDA) and apply Machine Learning Methodology for Market Analytics. At the same time, we are trying to uncover the critical factors for user preferences of Google PlayStore.
 
 
 ### Methods Used
