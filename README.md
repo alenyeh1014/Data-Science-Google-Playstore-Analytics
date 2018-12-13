@@ -41,12 +41,12 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
   
 * Data and Scope:
 
-  - The dataset is downloaded from kaggle and it is also a open competition for all people who are interested in. The data size is around 10000 with some missing valuse insides, so still need to clean it before data analytics.
+  - The dataset is downloaded from kaggle and it is also an open competition for all people who are interested in. The data size is around 10000 with some missing values insides, so still need to clean it before analyzing.
   
   
 * Methodology Approach:
 
-  - Convolutional layers apply a convolution operation to the input, passing the result to the next layer. The convolution emulates the response of an individual neuron to visual stimuli. Each neuron processes data only for its receptive field.
+  - 
 
   
 * Conclusion:
