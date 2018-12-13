@@ -12,6 +12,7 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
 * Inferential Statistics
 * Data Wrangling
 * Data Visualization
+* Sentiment Analysis
 * Machine Learning
 * Predictive Modeling
 
@@ -26,13 +27,28 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
 
 ### Technologies and Packaged Used
 
-* Python, Jupyter Notebook
-* Numpy, Pandas, Seaborn
-* Sklearn, Matplotlib, statsmodels.api
+* Python, Jupyter Notebook, Tableau
+* Numpy, Pandas, Statsmodels.api
+* Sklearn, Matplotlib, Seaborn
 
 
 ### Project Description
 
 * Motivation:
 
-  - It is simple and str
+  - Since Google Playstore is becoming bigger and competitive, the number of applications available in the Google Playstore has increased dramatically. Therefore, in order to seize this great business opportunity, more and more people are trying to figure out which factors are critical to the users.  
+  
+  
+* Data and Scope:
+
+  - The dataset is downloaded from kaggle and it is also a open competition for all people who are interested in. The data size is around 10000 with some missing valuse insides, so still need to clean it before data analytics.
+  
+  
+* Methodology Approach:
+
+  - Convolutional layers apply a convolution operation to the input, passing the result to the next layer. The convolution emulates the response of an individual neuron to visual stimuli. Each neuron processes data only for its receptive field.
+
+  
+* Conclusion:
+
+  - 
