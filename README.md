@@ -41,12 +41,15 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
   
 * Data and Scope:
 
-  - The dataset is downloaded from kaggle. It is an open competition for participants who are willing to work on this project. The data size is around 10000 with meaningless and missing values. Thus, data cleansing is the first and the most important step to overcome in order to truly understand the importance weights for each variable.  
+  - The dataset is downloaded from kaggle and it is also an open competition for participants who are willing to work on this project. The data size is around 10000 with meaningless and missing values. Thus, data cleansing is the first and the most important step to overcome in order to truly understand the importance weights for each variable.  
   
   
 * Methodology Approach:
 
-  - 
+  - Data Cleansing:
+    - 1. I mapped the **Category**
+    
+    Size, Installs, Type,
 
   
 * Conclusion:
