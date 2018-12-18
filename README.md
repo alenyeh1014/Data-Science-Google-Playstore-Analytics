@@ -21,6 +21,7 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
 
 - Machine Learning: 
   - Linear Regression (LR)
+  - Support Vector Machines (SVM)
   - Random Forest Regression (RFR)
   - Random Forest Classification (RFC)
 
@@ -52,7 +53,11 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
     3. Split the meaningless symbols for each variable in the column and that's pretty much for data cleansing!
   
   - Modeling Approach: 
-  
+    1. Set factor **Rating** to Y and the rest factors to X.
+    2. Split the dataset into 80% training data and 20% testing data.
+    3. Apply Linear Regression model to detect the relationships between **Rating** and each factor.
+    4. Apply Support Vector Machines model to predict the new **Rating** values.
+    5. Apply Random Forest Regression and Classification to measure the importance weights for each variable.
 
   
 * Conclusion:
