@@ -47,9 +47,12 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
 * Methodology Approach:
 
   - Data Cleansing:
-    - 1. I mapped the **Category**
-    
-    Size, Installs, Type,
+    1. Label each **Category** and **Genres** with their unique variables and make sure the results are representative. 
+    2. Convert every letter **M** and **k** in Size column to numerical numbers and replace the originals with new values.
+    3. Split the meaningless symbols for each variable in the column and that's pretty much for data cleansing!
+  
+  - Modeling Approach: 
+  
 
   
 * Conclusion:
