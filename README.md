@@ -62,9 +62,15 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
   
 * Conclusion:
 
-  - Based on the related marketing research, it presents that **UserReviews** is the most influential factor for users to install the apps from Google PlayStore. However, there are something interesting when doing the EDA. For instance, I find out that rating score increases higher when the size of the app becomes smaller. That is to say, even though the average app rating is around 4.2 which is quite high, developers can still work on the size issue to improve the rating. In addition, since the type of social entertainments and games are the most popular apps above all, developers can focus on those developments. According to the results of sentimental analysis, it is obvious that most users have positive attitudes toward **Game, Health & Fitness and Travle & Local apps**.   
+  - Based on the related marketing research, it presents that **UserReviews** is the most influential factor for users to install the apps from Google PlayStore. However, there are something interesting when visualizing with EDA. For instance, I find out that rating score grows higher when the size of the app becomes smaller. That is to say, even though the average app rating is around 4.2 which is quite high, developers can still work on the **SIZE** issue to get better rating scores. 
   
-  - The Linear Regression model is robust and persuasive because R-squared is around 85%. Also, **Category, Type and Content Rating** are the three top influential factors in this model. Furthermore, they all have positive relations to **Rating**. The accuracy of Random Forest Classification model is around 76% which is a little bit lower than the Linear Regression model, but the results still remain strong and convincing. Meanwhile, it is clear that **Reviews and Size** are the top two meaningful factors from the results of Random Forest Classification model. On the other hand, **Price and Type** are less important in this classification analysis. In general, it is hard and unfair to say which model has a better performance since their accuracies are pretty high. Therefore, developers should choose wisely depending on their own purposes when apply the data with different kinds of machine learning models. 
+  - In addition, since the type of social entertainments and games are the most popular apps above all, developers can focus on those developments. According to the results of sentimental analysis, it is obvious that most users have positive attitudes toward **Game, Health & Fitness and Travle & Local apps**.   
+  
+  - Furthermore, I can distinguish that **Linear Regression** model is robust and persuasive because R-squared is around 85%. Also, **Category, Type and Content Rating** are the three top influential factors in this model and they all have positive relations toward **Rating** factor. 
+  
+  - Moreover, the accuracy of **Random Forest Classification** model is around 76% which is a little bit lower than the Linear Regression model, but the results still remain strong and convincing since **Reviews and Size** are the top two meaningful factors from the results. On the other hand, **Price and Type** are less important in this classification analysis. 
+  
+  - In general, it is hard and unfair to say which model has a better performance since their accuracies are pretty high. Therefore, developers should choose wisely depending on their own purposes when applying the data with different kinds of machine learning models. 
   
   
   
