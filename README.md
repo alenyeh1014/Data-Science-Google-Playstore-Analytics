@@ -26,7 +26,7 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
   - Random Forest Classification (RFC)
 
 
-### Technologies and Packaged Used
+### Technologies and Packages Used
 
 * Python, Jupyter Notebook, Tableau
 * Numpy, Pandas, Statsmodels.api
