@@ -4,7 +4,7 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
 
 ### Project Objective
 
-* The purpose of this project is to make Exploratory Data Analysis (EDA) and apply Machine Learning methodology for Market Analytics. At the same time, I try to uncover the critical factors for user preferences of Google PlayStore.
+* The purpose of this project is to establish **Exploratory Data Analysis (EDA)** and apply **Machine Learning methodology** for Market Analytics. At the same time, I try to uncover the critical factors for user preferences of Google PlayStore.
 
 
 ### Methods Used
@@ -70,7 +70,7 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
   
   - Moreover, the accuracy of **Random Forest Classification** model is around 76% which is a little bit lower than the Linear Regression model, but the results still remain strong and convincing since **Reviews and Size** are the top two meaningful factors from the results. On the other hand, **Price and Type** are less important in this classification analysis. 
   
-  - In general, it is hard and unfair to say which model has a better performance since their accuracies are pretty high. Therefore, developers should choose wisely depending on their own purposes when applying the data with different kinds of machine learning models. 
+  - In general, it is hard and unfair to say which model has a better performance since their **accuracies are pretty high**. Therefore, developers should choose wisely depending on their own purposes when applying the data with different kinds of machine learning models. 
   
   
   
