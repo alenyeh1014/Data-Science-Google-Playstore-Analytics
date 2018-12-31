@@ -60,7 +60,7 @@ Hi all, this is a Data Analytics Project ! - Market Analytics with Machine Learn
     5. Apply Random Forest Regression and Classification to measure the importance weights for each variable.
 
   
-* Conclusion:
+### Conclusion:
 
   - Based on the related marketing research, it presents that **UserReviews** is the most influential factor for users to install the apps from Google PlayStore. However, there are something interesting when visualizing with EDA. For instance, I find out that rating score grows higher when the size of the app becomes smaller. That is to say, even though the average app rating is around 4.2 which is quite high, developers can still work on the **SIZE** issue to get better rating scores. 
   
